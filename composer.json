@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/media-manager",
+    "name": "zxg321/laravel-admin-ext-media-manager",
     "description": "Media manager for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "media", "manager"],
-    "homepage": "https://github.com/laravel-admin-extensions/media-manager",
+    "homepage": "https://github.com/zxg321/laravel-admin-extensions-media-manager",
     "license": "MIT",
     "authors": [
         {
